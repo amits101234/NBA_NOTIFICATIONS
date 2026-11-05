@@ -6,7 +6,7 @@
   "games": {
     "401909922": {
       "away": "76ers",
-      "done": false,
+      "done": true,
       "final_seen": "2026-11-05T14:56:48Z",
       "home": "Pistons",
       "id": "401909922",
@@ -16,7 +16,7 @@
     },
     "401909932": {
       "away": "Trail Blazers",
-      "done": false,
+      "done": true,
       "final_seen": "2026-11-05T14:56:48Z",
       "home": "Suns",
       "id": "401909932",
@@ -26,7 +26,7 @@
     },
     "401909934": {
       "away": "Lakers",
-      "done": false,
+      "done": true,
       "final_seen": "2026-11-05T14:56:48Z",
       "home": "Kings",
       "id": "401909934",
