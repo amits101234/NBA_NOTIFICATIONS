@@ -1,0 +1,52 @@
+# ─────────────────────────────────────────────────────────────
+#  NBA Highlights Watcher — your settings
+#  Edit this file, commit, and you're done.
+# ─────────────────────────────────────────────────────────────
+
+# Teams to follow (2 or 3). Use the team nickname, e.g. Lakers,
+# Celtics, Warriors, Knicks, 76ers, Trail Blazers, Timberwolves.
+teams:
+  - Lakers
+  - Trail Blazers
+  - 76ers
+
+# The two YouTube channels to watch. Any of these forms works:
+#   "@ChannelHandle"
+#   "https://www.youtube.com/@ChannelHandle"
+#   "UCxxxxxxxxxxxxxxxxxxxxxx"   (channel ID)
+# "name" is just how the channel appears in your WhatsApp message.
+channels:
+  - name: GAMETIME HIGHLIGHTS
+    id: "UC0LrZO9wORIqn_aRJtKdgfA"     # @thegametimehighlights
+  - name: FreeDawkins
+    id: "UCEjOSbbaOfgnfRODEEMYlCw"
+
+# A video counts as "the highlights" only if its title mentions BOTH
+# teams of the game, contains one of these words...
+title_must_contain:
+  - highlight
+
+# ...and contains none of these (skips pressers, single-player clips
+# of a half/quarter, reaction videos, Shorts, etc.).
+title_must_not_contain:
+  - press conference
+  - postgame
+  - post-game
+  - interview
+  - reaction
+  - reacts
+  - "#shorts"
+  - 1st half
+  - first half
+  - 1st quarter
+  - first quarter
+  - 2nd quarter
+  - 3rd quarter
+  - 4th quarter
+
+# How long after the final buzzer to keep waiting for a channel
+# before giving up on that game.
+give_up_after_hours: 4
+
+# Send a short (spoiler-free) message if a channel never posted?
+notify_when_giving_up: false

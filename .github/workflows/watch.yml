@@ -1,0 +1,55 @@
+name: NBA highlights watcher
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"     # every 5 minutes (GitHub may delay runs a few minutes)
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "What to run"
+        type: choice
+        default: run
+        options: [run, check, test-whatsapp]
+
+permissions:
+  contents: write              # lets the workflow save state.json back to the repo
+
+concurrency:
+  group: nba-watcher           # never run two copies at once
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run watcher
+        env:
+          CALLMEBOT_PHONE: ${{ secrets.CALLMEBOT_PHONE }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+        run: |
+          case "${{ github.event.inputs.mode || 'run' }}" in
+            check)          python watcher.py --check ;;
+            test-whatsapp)  python watcher.py --test-whatsapp ;;
+            *)              python watcher.py ;;
+          esac
+
+      - name: Save state
+        run: |
+          if [ -n "$(git status --porcelain state.json)" ]; then
+            git config user.name  "highlights-bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add state.json
+            git commit -m "Update watcher state [skip ci]" -q
+            git pull --rebase -q || true
+            git push -q
+          fi
