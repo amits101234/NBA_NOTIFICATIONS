@@ -4,6 +4,24 @@
     "UCEjOSbbaOfgnfRODEEMYlCw": "UCEjOSbbaOfgnfRODEEMYlCw"
   },
   "games": {
+    "401909289": {
+      "away": "76ers",
+      "done": false,
+      "home": "Cavaliers",
+      "id": "401909289",
+      "notified": {},
+      "start": "2026-11-07T00:30:00Z",
+      "status": "scheduled"
+    },
+    "401909294": {
+      "away": "Trail Blazers",
+      "done": false,
+      "home": "Lakers",
+      "id": "401909294",
+      "notified": {},
+      "start": "2026-11-07T03:00:00Z",
+      "status": "scheduled"
+    },
     "401909922": {
       "away": "76ers",
       "done": true,
@@ -36,5 +54,5 @@
     }
   },
   "heartbeat": "2026-11-06",
-  "schedule_day": "2026-11-05"
+  "schedule_day": "2026-11-06"
 }
