@@ -6,7 +6,7 @@
   "games": {
     "401909289": {
       "away": "76ers",
-      "done": false,
+      "done": true,
       "final_seen": "2026-11-07T07:14:16Z",
       "home": "Cavaliers",
       "id": "401909289",
@@ -16,7 +16,7 @@
     },
     "401909294": {
       "away": "Trail Blazers",
-      "done": false,
+      "done": true,
       "final_seen": "2026-11-07T07:14:16Z",
       "home": "Lakers",
       "id": "401909294",
