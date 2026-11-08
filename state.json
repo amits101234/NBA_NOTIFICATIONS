@@ -24,16 +24,6 @@
       "start": "2026-11-07T03:00:00Z",
       "status": "final"
     },
-    "401909922": {
-      "away": "76ers",
-      "done": true,
-      "final_seen": "2026-11-05T14:56:48Z",
-      "home": "Pistons",
-      "id": "401909922",
-      "notified": {},
-      "start": "2026-11-05T00:00:00Z",
-      "status": "final"
-    },
     "401909932": {
       "away": "Trail Blazers",
       "done": true,
@@ -64,6 +54,6 @@
       "status": "scheduled"
     }
   },
-  "heartbeat": "2026-11-07",
+  "heartbeat": "2026-11-08",
   "schedule_day": "2026-11-07"
 }
