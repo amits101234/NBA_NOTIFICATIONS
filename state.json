@@ -37,11 +37,12 @@
     "401909945": {
       "away": "76ers",
       "done": false,
+      "final_seen": "2026-11-08T23:05:42Z",
       "home": "Bulls",
       "id": "401909945",
       "notified": {},
       "start": "2026-11-08T20:30:00Z",
-      "status": "scheduled"
+      "status": "final"
     },
     "401909946": {
       "away": "Lakers",
