@@ -37,22 +37,42 @@
     "401909961": {
       "away": "Celtics",
       "done": false,
+      "final_seen": "2026-11-11T11:00:15Z",
       "home": "76ers",
       "id": "401909961",
       "notified": {},
       "start": "2026-11-11T01:00:00Z",
-      "status": "live"
+      "status": "final"
     },
     "401909965": {
       "away": "Thunder",
       "done": false,
+      "final_seen": "2026-11-11T11:00:15Z",
       "home": "Trail Blazers",
       "id": "401909965",
       "notified": {},
       "start": "2026-11-11T04:00:00Z",
+      "status": "final"
+    },
+    "401909971": {
+      "away": "Lakers",
+      "done": false,
+      "home": "Bucks",
+      "id": "401909971",
+      "notified": {},
+      "start": "2026-11-12T01:00:00Z",
+      "status": "scheduled"
+    },
+    "401909975": {
+      "away": "Thunder",
+      "done": false,
+      "home": "Trail Blazers",
+      "id": "401909975",
+      "notified": {},
+      "start": "2026-11-12T03:00:00Z",
       "status": "scheduled"
     }
   },
   "heartbeat": "2026-11-11",
-  "schedule_day": "2026-11-10"
+  "schedule_day": "2026-11-11"
 }
