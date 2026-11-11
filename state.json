@@ -4,16 +4,6 @@
     "UCEjOSbbaOfgnfRODEEMYlCw": "UCEjOSbbaOfgnfRODEEMYlCw"
   },
   "games": {
-    "401909944": {
-      "away": "Spurs",
-      "done": true,
-      "final_seen": "2026-11-08T07:59:25Z",
-      "home": "Trail Blazers",
-      "id": "401909944",
-      "notified": {},
-      "start": "2026-11-08T03:00:00Z",
-      "status": "final"
-    },
     "401909945": {
       "away": "76ers",
       "done": true,
@@ -51,7 +41,7 @@
       "id": "401909961",
       "notified": {},
       "start": "2026-11-11T01:00:00Z",
-      "status": "scheduled"
+      "status": "live"
     },
     "401909965": {
       "away": "Thunder",
@@ -63,6 +53,6 @@
       "status": "scheduled"
     }
   },
-  "heartbeat": "2026-11-10",
+  "heartbeat": "2026-11-11",
   "schedule_day": "2026-11-10"
 }
