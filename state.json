@@ -4,26 +4,6 @@
     "UCEjOSbbaOfgnfRODEEMYlCw": "UCEjOSbbaOfgnfRODEEMYlCw"
   },
   "games": {
-    "401909945": {
-      "away": "76ers",
-      "done": true,
-      "final_seen": "2026-11-08T23:05:42Z",
-      "home": "Bulls",
-      "id": "401909945",
-      "notified": {},
-      "start": "2026-11-08T20:30:00Z",
-      "status": "final"
-    },
-    "401909946": {
-      "away": "Lakers",
-      "done": true,
-      "final_seen": "2026-11-09T02:38:07Z",
-      "home": "Pistons",
-      "id": "401909946",
-      "notified": {},
-      "start": "2026-11-08T23:00:00Z",
-      "status": "final"
-    },
     "401909952": {
       "away": "Lakers",
       "done": true,
@@ -73,6 +53,6 @@
       "status": "scheduled"
     }
   },
-  "heartbeat": "2026-11-11",
+  "heartbeat": "2026-11-12",
   "schedule_day": "2026-11-11"
 }
