@@ -6,7 +6,7 @@
   "games": {
     "401909303": {
       "away": "Trail Blazers",
-      "done": false,
+      "done": true,
       "final_seen": "2026-11-14T10:52:19Z",
       "home": "Kings",
       "id": "401909303",
