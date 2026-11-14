@@ -7,20 +7,11 @@
     "401909303": {
       "away": "Trail Blazers",
       "done": false,
+      "final_seen": "2026-11-14T10:52:19Z",
       "home": "Kings",
       "id": "401909303",
       "notified": {},
       "start": "2026-11-14T03:00:00Z",
-      "status": "scheduled"
-    },
-    "401909965": {
-      "away": "Thunder",
-      "done": true,
-      "final_seen": "2026-11-11T11:00:15Z",
-      "home": "Trail Blazers",
-      "id": "401909965",
-      "notified": {},
-      "start": "2026-11-11T04:00:00Z",
       "status": "final"
     },
     "401909971": {
@@ -55,5 +46,5 @@
     }
   },
   "heartbeat": "2026-11-14",
-  "schedule_day": "2026-11-13"
+  "schedule_day": "2026-11-14"
 }
