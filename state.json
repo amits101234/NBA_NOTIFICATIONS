@@ -13,16 +13,6 @@
       "start": "2026-11-14T03:00:00Z",
       "status": "scheduled"
     },
-    "401909961": {
-      "away": "Celtics",
-      "done": true,
-      "final_seen": "2026-11-11T11:00:15Z",
-      "home": "76ers",
-      "id": "401909961",
-      "notified": {},
-      "start": "2026-11-11T01:00:00Z",
-      "status": "final"
-    },
     "401909965": {
       "away": "Thunder",
       "done": true,
@@ -64,6 +54,6 @@
       "status": "final"
     }
   },
-  "heartbeat": "2026-11-13",
+  "heartbeat": "2026-11-14",
   "schedule_day": "2026-11-13"
 }
