@@ -14,35 +14,27 @@
       "start": "2026-11-14T03:00:00Z",
       "status": "final"
     },
-    "401909976": {
-      "away": "Raptors",
-      "done": true,
-      "final_seen": "2026-11-13T02:52:06Z",
-      "home": "76ers",
-      "id": "401909976",
-      "notified": {},
-      "start": "2026-11-13T00:00:00Z",
-      "status": "final"
-    },
     "401909985": {
       "away": "Pacers",
       "done": false,
+      "final_seen": "2026-11-16T00:03:55Z",
       "home": "76ers",
       "id": "401909985",
       "notified": {},
       "start": "2026-11-15T18:00:00Z",
-      "status": "live"
+      "status": "final"
     },
     "401909986": {
       "away": "Lakers",
       "done": false,
+      "final_seen": "2026-11-16T00:03:55Z",
       "home": "Suns",
       "id": "401909986",
       "notified": {},
       "start": "2026-11-15T21:00:00Z",
-      "status": "scheduled"
+      "status": "final"
     }
   },
-  "heartbeat": "2026-11-15",
+  "heartbeat": "2026-11-16",
   "schedule_day": "2026-11-15"
 }
