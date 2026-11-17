@@ -4,16 +4,6 @@
     "UCEjOSbbaOfgnfRODEEMYlCw": "UCEjOSbbaOfgnfRODEEMYlCw"
   },
   "games": {
-    "401909303": {
-      "away": "Trail Blazers",
-      "done": true,
-      "final_seen": "2026-11-14T10:52:19Z",
-      "home": "Kings",
-      "id": "401909303",
-      "notified": {},
-      "start": "2026-11-14T03:00:00Z",
-      "status": "final"
-    },
     "401909985": {
       "away": "Pacers",
       "done": true,
@@ -37,22 +27,42 @@
     "401909997": {
       "away": "76ers",
       "done": false,
+      "final_seen": "2026-11-17T08:01:53Z",
       "home": "Nets",
       "id": "401909997",
       "notified": {},
       "start": "2026-11-17T00:30:00Z",
-      "status": "scheduled"
+      "status": "final"
     },
     "401909999": {
       "away": "Trail Blazers",
       "done": false,
+      "final_seen": "2026-11-17T08:01:53Z",
       "home": "Timberwolves",
       "id": "401909999",
       "notified": {},
       "start": "2026-11-17T01:00:00Z",
+      "status": "final"
+    },
+    "401910003": {
+      "away": "Trail Blazers",
+      "done": false,
+      "home": "Timberwolves",
+      "id": "401910003",
+      "notified": {},
+      "start": "2026-11-18T01:00:00Z",
+      "status": "scheduled"
+    },
+    "401910005": {
+      "away": "Hornets",
+      "done": false,
+      "home": "Lakers",
+      "id": "401910005",
+      "notified": {},
+      "start": "2026-11-18T04:00:00Z",
       "status": "scheduled"
     }
   },
   "heartbeat": "2026-11-17",
-  "schedule_day": "2026-11-16"
+  "schedule_day": "2026-11-17"
 }
