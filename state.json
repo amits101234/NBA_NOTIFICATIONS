@@ -26,7 +26,7 @@
     },
     "401909997": {
       "away": "76ers",
-      "done": false,
+      "done": true,
       "final_seen": "2026-11-17T08:01:53Z",
       "home": "Nets",
       "id": "401909997",
@@ -36,7 +36,7 @@
     },
     "401909999": {
       "away": "Trail Blazers",
-      "done": false,
+      "done": true,
       "final_seen": "2026-11-17T08:01:53Z",
       "home": "Timberwolves",
       "id": "401909999",
