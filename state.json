@@ -46,7 +46,7 @@
     },
     "401910003": {
       "away": "Trail Blazers",
-      "done": false,
+      "done": true,
       "final_seen": "2026-11-18T06:55:17Z",
       "home": "Timberwolves",
       "id": "401910003",
@@ -57,11 +57,12 @@
     "401910005": {
       "away": "Hornets",
       "done": false,
+      "final_seen": "2026-11-18T16:16:34Z",
       "home": "Lakers",
       "id": "401910005",
       "notified": {},
       "start": "2026-11-18T04:00:00Z",
-      "status": "live"
+      "status": "final"
     },
     "401910010": {
       "away": "76ers",
