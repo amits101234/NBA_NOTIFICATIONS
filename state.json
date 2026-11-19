@@ -47,11 +47,12 @@
     "401910010": {
       "away": "76ers",
       "done": false,
+      "final_seen": "2026-11-19T04:04:23Z",
       "home": "Magic",
       "id": "401910010",
       "notified": {},
       "start": "2026-11-19T00:00:00Z",
-      "status": "scheduled"
+      "status": "final"
     },
     "401910017": {
       "away": "Jazz",
@@ -60,9 +61,9 @@
       "id": "401910017",
       "notified": {},
       "start": "2026-11-19T03:00:00Z",
-      "status": "scheduled"
+      "status": "live"
     }
   },
-  "heartbeat": "2026-11-18",
+  "heartbeat": "2026-11-19",
   "schedule_day": "2026-11-18"
 }
