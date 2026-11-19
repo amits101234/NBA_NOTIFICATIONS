@@ -46,7 +46,7 @@
     },
     "401910010": {
       "away": "76ers",
-      "done": false,
+      "done": true,
       "final_seen": "2026-11-19T04:04:23Z",
       "home": "Magic",
       "id": "401910010",
@@ -57,13 +57,23 @@
     "401910017": {
       "away": "Jazz",
       "done": false,
+      "final_seen": "2026-11-19T12:55:41Z",
       "home": "Lakers",
       "id": "401910017",
       "notified": {},
       "start": "2026-11-19T03:00:00Z",
-      "status": "live"
+      "status": "final"
+    },
+    "401910020": {
+      "away": "Trail Blazers",
+      "done": false,
+      "home": "Bucks",
+      "id": "401910020",
+      "notified": {},
+      "start": "2026-11-20T01:00:00Z",
+      "status": "scheduled"
     }
   },
   "heartbeat": "2026-11-19",
-  "schedule_day": "2026-11-18"
+  "schedule_day": "2026-11-19"
 }
