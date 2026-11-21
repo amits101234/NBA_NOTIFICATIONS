@@ -47,11 +47,12 @@
     "401910023": {
       "away": "Bucks",
       "done": false,
+      "final_seen": "2026-11-21T21:04:05Z",
       "home": "76ers",
       "id": "401910023",
       "notified": {},
       "start": "2026-11-21T18:00:00Z",
-      "status": "scheduled"
+      "status": "final"
     },
     "401910024": {
       "away": "Trail Blazers",
