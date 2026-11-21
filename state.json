@@ -6,7 +6,7 @@
   "games": {
     "401909313": {
       "away": "Kings",
-      "done": false,
+      "done": true,
       "final_seen": "2026-11-21T07:24:35Z",
       "home": "Lakers",
       "id": "401909313",
