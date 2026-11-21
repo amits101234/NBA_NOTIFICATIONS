@@ -7,30 +7,11 @@
     "401909313": {
       "away": "Kings",
       "done": false,
+      "final_seen": "2026-11-21T07:24:35Z",
       "home": "Lakers",
       "id": "401909313",
       "notified": {},
       "start": "2026-11-21T03:00:00Z",
-      "status": "scheduled"
-    },
-    "401910003": {
-      "away": "Trail Blazers",
-      "done": true,
-      "final_seen": "2026-11-18T06:55:17Z",
-      "home": "Timberwolves",
-      "id": "401910003",
-      "notified": {},
-      "start": "2026-11-18T01:00:00Z",
-      "status": "final"
-    },
-    "401910005": {
-      "away": "Hornets",
-      "done": true,
-      "final_seen": "2026-11-18T16:16:34Z",
-      "home": "Lakers",
-      "id": "401910005",
-      "notified": {},
-      "start": "2026-11-18T04:00:00Z",
       "status": "final"
     },
     "401910010": {
@@ -62,8 +43,26 @@
       "notified": {},
       "start": "2026-11-20T01:00:00Z",
       "status": "final"
+    },
+    "401910023": {
+      "away": "Bucks",
+      "done": false,
+      "home": "76ers",
+      "id": "401910023",
+      "notified": {},
+      "start": "2026-11-21T18:00:00Z",
+      "status": "scheduled"
+    },
+    "401910024": {
+      "away": "Trail Blazers",
+      "done": false,
+      "home": "Knicks",
+      "id": "401910024",
+      "notified": {},
+      "start": "2026-11-22T00:30:00Z",
+      "status": "scheduled"
     }
   },
   "heartbeat": "2026-11-21",
-  "schedule_day": "2026-11-20"
+  "schedule_day": "2026-11-21"
 }
