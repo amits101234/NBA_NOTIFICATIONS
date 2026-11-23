@@ -33,8 +33,26 @@
       "notified": {},
       "start": "2026-11-22T00:30:00Z",
       "status": "final"
+    },
+    "401910037": {
+      "away": "Trail Blazers",
+      "done": false,
+      "home": "76ers",
+      "id": "401910037",
+      "notified": {},
+      "start": "2026-11-24T00:00:00Z",
+      "status": "scheduled"
+    },
+    "401910044": {
+      "away": "Jazz",
+      "done": false,
+      "home": "Lakers",
+      "id": "401910044",
+      "notified": {},
+      "start": "2026-11-24T03:00:00Z",
+      "status": "scheduled"
     }
   },
   "heartbeat": "2026-11-23",
-  "schedule_day": "2026-11-22"
+  "schedule_day": "2026-11-23"
 }
