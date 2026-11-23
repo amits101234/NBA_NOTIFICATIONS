@@ -14,16 +14,6 @@
       "start": "2026-11-21T03:00:00Z",
       "status": "final"
     },
-    "401910020": {
-      "away": "Trail Blazers",
-      "done": true,
-      "final_seen": "2026-11-20T10:17:45Z",
-      "home": "Bucks",
-      "id": "401910020",
-      "notified": {},
-      "start": "2026-11-20T01:00:00Z",
-      "status": "final"
-    },
     "401910023": {
       "away": "Bucks",
       "done": true,
@@ -45,6 +35,6 @@
       "status": "final"
     }
   },
-  "heartbeat": "2026-11-22",
+  "heartbeat": "2026-11-23",
   "schedule_day": "2026-11-22"
 }
