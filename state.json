@@ -4,16 +4,6 @@
     "UCEjOSbbaOfgnfRODEEMYlCw": "UCEjOSbbaOfgnfRODEEMYlCw"
   },
   "games": {
-    "401909313": {
-      "away": "Kings",
-      "done": true,
-      "final_seen": "2026-11-21T07:24:35Z",
-      "home": "Lakers",
-      "id": "401909313",
-      "notified": {},
-      "start": "2026-11-21T03:00:00Z",
-      "status": "final"
-    },
     "401910023": {
       "away": "Bucks",
       "done": true,
@@ -37,22 +27,24 @@
     "401910037": {
       "away": "Trail Blazers",
       "done": false,
+      "final_seen": "2026-11-24T06:09:16Z",
       "home": "76ers",
       "id": "401910037",
       "notified": {},
       "start": "2026-11-24T00:00:00Z",
-      "status": "scheduled"
+      "status": "final"
     },
     "401910044": {
       "away": "Jazz",
       "done": false,
+      "final_seen": "2026-11-24T06:09:16Z",
       "home": "Lakers",
       "id": "401910044",
       "notified": {},
       "start": "2026-11-24T03:00:00Z",
-      "status": "scheduled"
+      "status": "final"
     }
   },
-  "heartbeat": "2026-11-23",
-  "schedule_day": "2026-11-23"
+  "heartbeat": "2026-11-24",
+  "schedule_day": "2026-11-24"
 }
