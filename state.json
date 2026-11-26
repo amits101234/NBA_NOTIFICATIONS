@@ -7,11 +7,12 @@
     "401909317": {
       "away": "Heat",
       "done": false,
+      "final_seen": "2026-11-26T02:50:55Z",
       "home": "76ers",
       "id": "401909317",
       "notified": {},
       "start": "2026-11-25T22:00:00Z",
-      "status": "scheduled"
+      "status": "final"
     },
     "401909325": {
       "away": "Spurs",
@@ -43,6 +44,6 @@
       "status": "final"
     }
   },
-  "heartbeat": "2026-11-25",
+  "heartbeat": "2026-11-26",
   "schedule_day": "2026-11-25"
 }
