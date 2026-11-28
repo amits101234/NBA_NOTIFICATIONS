@@ -27,11 +27,12 @@
     "401909328": {
       "away": "76ers",
       "done": false,
+      "final_seen": "2026-11-28T03:33:38Z",
       "home": "Pacers",
       "id": "401909328",
       "notified": {},
       "start": "2026-11-28T00:30:00Z",
-      "status": "scheduled"
+      "status": "final"
     },
     "401909333": {
       "away": "Lakers",
@@ -40,7 +41,7 @@
       "id": "401909333",
       "notified": {},
       "start": "2026-11-28T02:30:00Z",
-      "status": "scheduled"
+      "status": "live"
     },
     "401909336": {
       "away": "Warriors",
@@ -49,9 +50,9 @@
       "id": "401909336",
       "notified": {},
       "start": "2026-11-28T02:30:00Z",
-      "status": "scheduled"
+      "status": "live"
     }
   },
-  "heartbeat": "2026-11-27",
+  "heartbeat": "2026-11-28",
   "schedule_day": "2026-11-27"
 }
